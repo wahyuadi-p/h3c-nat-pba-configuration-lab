@@ -121,9 +121,6 @@ local-user client class network
  service-type ppp
  authorization-attribute user-role network-operator
 #
-nat address-group 1
- address 192.200.100.1 192.200.100.254
-#
 nat port-block-group 1
  local-ip-address 100.64.0.0 100.64.0.254
  global-ip-pool 192.200.100.1 192.200.100.254
