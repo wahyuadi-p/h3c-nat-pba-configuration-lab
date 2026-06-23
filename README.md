@@ -18,7 +18,7 @@ Lab ini mensimulasikan jaringan ISP sederhana menggunakan:
 
 ## Topology
 
-![Topology](topology.png)
+![Topology](Topology.PNG)
 
 
 ```
@@ -287,13 +287,13 @@ H3C-CGNAT-PBA
 |
 |-- topology.png
 |
-|-- PBA-Dynamic
+|-- Deterministic
 |      |
-|      |-- h3c-pba-dynamic.cfg
+|      |-- H3C-vBRAS.TXT
 |
-|-- PBA-Deterministic
+|-- PBA-Dynamic
        |
-       |-- h3c-pba-deterministic.cfg
+       |-- H3C-vBRAS.txt
 ```
 
 ---
